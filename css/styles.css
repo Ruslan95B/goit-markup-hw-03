@@ -1,0 +1,218 @@
+body {
+  background-color: white;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+}
+
+/*header*/
+.logo {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.logo_studio {
+  color: #2e2f42;
+}
+.menu_list {
+  list-style: none;
+  font-style: normal;
+}
+.menu_list_link {
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+.menu_list_link:hover {
+  color: #404bbf;
+}
+.menu_list_link:focus {
+  color: #404bbf;
+}
+/*address*/
+.font_style_address {
+  font-style: normal;
+}
+.address_list {
+  list-style: none;
+  font-style: normal;
+}
+.address_list_link {
+  text-decoration: none;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+.address_list_link:hover {
+  color: #404bbf;
+}
+.address_list_link:focus {
+  color: #404bbf;
+}
+
+/*banner_section*/
+
+.banner_section {
+  background-color: #2e2f42;
+}
+.banner_text {
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+}
+.style_buttin {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+.style_buttin:hover {
+  background-color: #404bbf;
+}
+.style_buttin:focus {
+  background-color: #404bbf;
+}
+.style_buttin{
+  color: #ffffff;
+}
+
+/*style_section_2*/
+
+.style_section_h {
+  color: #2e2f42;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.style_section_p {
+  color: #434455;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+
+/*section_3*/
+.banner_section_light_bg {
+  background-color: #f4f4fd;
+}
+
+.style_li {
+  background-color: #ffffff;
+}
+.banner_text_team_card {
+  color: #2e2f42;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+.banner_text_team_card_h {
+  color: #2e2f42;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+.banner_text_team_card_p {
+  color: #434455;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+.banner_text_our_portfolio {
+  color: #2e2f42;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.style_h {
+  color: #2e2f42;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.style_p {
+  color: #434455;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/*Footer*/
+
+.banner_section_footer {
+  background-color: #2e2f42;
+}
+.logo_footer {
+  color: #f4f4fd;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+.logo_studio_f {
+  color: #f4f4fd;
+  font-family: "Raleway";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
